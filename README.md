@@ -25,23 +25,20 @@
 ## The nano degree contained 3 projects:
 
 
-### 1. Explore US bikeshare data
+### Project (1) :  [Exploring Weather Trends](https://github.com/nancyalaswad90/Udacity-Data-Analyst-Nanodegree/tree/master/Project%201)
 
 
 Where we required to use python to understand US. bikeshare data, calculate statistics and build an interactive environment
 
 
 
-### 2. Wrangle and Analyze data
-
+### Project (2) : [Wrangle and Analyze Data](https://github.com/nancyalaswad90/Udacity-Data-Analyst-Nanodegree/tree/master/project%207) 
 
 I was required to gather data from 3 different sources in 3 different formats about the famous account @WeRateDogs on Twitter, assess its quality and tidiness issues, then clean it and Lastly analyze and visualize my wrangled data
 
 
 
-### 3.  Conquer the freelancing marketplaces
-
-
+### - Project ( 3) : [ Conquer the freelancing marketplaces]
 
 
 
