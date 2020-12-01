@@ -34,16 +34,9 @@ Where we required to use python to understand US. bikeshare data, calculate stat
 
 ### Project (2) : [Wrangle and Analyze Data](https://github.com/nancyalaswad90/Udacity-Data-Analyst-Nanodegree/tree/master/project%207) 
 
-I was required to gather data from 3 different sources in 3 different formats about the famous account @WeRateDogs on Twitter, assess its quality and tidiness issues, then clean it and Lastly analyze and visualize my wrangled data
+Where we required to gather data from 3 different sources in 3 different formats about the famous account @WeRateDogs on Twitter, assess its quality and tidiness issues, then clean it and Lastly analyze and visualize my wrangled data
 
 
 
-### - Project ( 3) : [ Conquer the freelancing marketplaces]
+### - Project ( 3) : [ Conquer the freelancing marketplaces](https://github.com/nancyalaswad90/Project-Conquer-the-freelancing-marketplaces)
 
-
-
-
-A month ago I've posted my Challenger Data Analysis certificate of completion which was my very first step in data, Today I graduated & received my Nano Degree in Professional Data Analysis.
-
-
-More to come!
